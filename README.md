@@ -1,1 +1,1 @@
-# aula-dia-6-mar-o-2026
+tabuada em .py, bem simples.
